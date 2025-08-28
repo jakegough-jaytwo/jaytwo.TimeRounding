@@ -1,4 +1,6 @@
-﻿namespace jaytwo.TimeRounding;
+using System;
+
+namespace jaytwo.TimeRounding;
 
 internal class AbsoluteRounder
 {

@@ -1,3 +1,5 @@
+using System;
+
 namespace jaytwo.TimeRounding;
 
 public class RoundedSecond
